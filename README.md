@@ -1,6 +1,6 @@
 Welcome to my GitHub!
 
 Name: Kanagavalli
-Department: CSE
+Department: AIDS
 
 This is my first project.
